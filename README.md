@@ -18,3 +18,9 @@ Reccommended Settings:
 - Show Inputs on Overlay: Physical (Controller), useful for visual feedback showing button presses when playing with physical a controller.
 - Save Core Overrides, useful to save and auto apply this settings and overlay to a specific core.
 - Every other setting should be ok in its default state.
+
+<p align="center">
+  <img src="Previews/preview_01.png" width="300">
+  <img src="Previews/preview_02.png" width="300">
+  <img src="Previews/preview_03.png" width="300">
+</p>
