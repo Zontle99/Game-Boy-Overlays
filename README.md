@@ -1,6 +1,6 @@
 Game Boy Overlays for RetroArch.
 
-Hand made and inspired by the original Game Boy DMG using Material Design colors, with simple shapes, minimalist design and high quality textures, keeping in mind comfort, accesibility and good visual proportions.
+Hand made and inspired by the original Game Boy DMG using Material Design colors, with simple shapes, minimalist design and high quality textures, keeping in mind comfort, accesibility and good visual proportions, buttons may seem small but their hitbox are big enough to be usable.
 Supports any phone with FHD+ screens with 18:9 up to 21:9 aspect ratio [1080x2160 up to 1080x2520].
 
 - 7 different skins, Cool Blue, Deep Black, Gorgeous Green, Off White, Radiant Red, Traditional White and Vibrant Yellow.
